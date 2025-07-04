@@ -91,5 +91,5 @@ to bring up a modal view that includes the details of each saved entry or swipe 
 
 
 ## Demo Video
-Click the [link here](https://google.com) for a demo video showcasing both applications (web and mobile).
+Click the [link here](https://youtu.be/XvkQKiO0PaQ) for a demo video showcasing both applications (web and mobile).
 
