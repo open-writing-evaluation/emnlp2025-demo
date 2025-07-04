@@ -21,6 +21,17 @@ The following section will briefly introduce the application's UI and features.
     - The results section will present the corrections in the format of an annotated sentence, where deletions and insertions are highlighted in red and green, respectively.
     - Users could opt to press to "Hide Annotations" button, to display a clean version of the corrected sentence without the colored highlights. In addition, users can press the same button, now "Show Annotations", to view the annotated version again.
 ### Screen Captures
+<table>
+    <tr>
+        <td align="center">Annotated Results</td>
+        <td align="center">Corrected Results</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://github.com/user-attachments/assets/f54ef6c4-d7cb-448b-bfda-82e0a31f2689" alt="web_app_anno" width = 550px height = 360px></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/90af99b1-bf39-4678-af56-9455c82cfc40" alt="web_app_corr" width = 550px height = 360px></td>
+    </tr> 
+</table>
+
 ## Mobile Application (*Translate it Right!*)
 ### Requirements
 The mobile application is built to run in Android environments. The application requires Android operating systems versioned Android 7.0 and above (SDK 24). The application was tested on Android 14 and 15 during development. For a smooth experience, a stable internet connection is recommended.
