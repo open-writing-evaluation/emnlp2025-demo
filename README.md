@@ -61,9 +61,34 @@ The following section will briefly introduce the application's UI and features.
     - Users can choose to either start a new exercise or save the current exercise. 
 4. Exercise History
     - Contains a list view of saved exercises.
-    - Users can swipe left to bring up a modal view that includes the details of each saved entry or swipe right to delete the entry from exercise history.
+    - Users can swipe left 
+to bring up a modal view that includes the details of each saved entry or swipe right to delete the entry from exercise history.
     - Users could also utilize the "Clear History" button to delete all exercise history.
 ### Screen Captures
+
+<table>
+    <tr>
+        <td align="center">Language Selection</td>
+        <td align="center">Translation Exercise</td>
+        <td align="center">Input Screen</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://github.com/user-attachments/assets/cfc52bf2-8834-414c-81df-dae5a444a52a" alt="select_lang" width = 80% height = 80%></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/28ecf70a-e96c-40fa-8c73-a17178678246" alt="question" width = 80% height = 80%></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/c2f65778-624d-4397-b3a5-e46486ab5c7d" alt="input" width = 80% height = 80%></td>
+    </tr>
+    <tr>
+        <td align="center">Exercise Results</td>
+        <td align="center">Exercise History</td>
+        <td align="center">History Modal</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://github.com/user-attachments/assets/44787bbb-76ea-4cfb-a7a8-07201222d566" alt="output" width = 80% height = 80%></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/96c25091-21af-40f6-8367-c996866fa3a6" alt="history_list" width = 80% height = 80%></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/1be11492-bf71-41a5-b043-6734488cbfec" alt="history_modal" width = 80% height = 80%></td>
+    </tr>
+</table>
+
 
 ## Demo Video
 Click the [link here](https://google.com) for a demo video showcasing both applications (web and mobile).
