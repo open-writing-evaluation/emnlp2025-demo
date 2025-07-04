@@ -27,8 +27,8 @@ The following section will briefly introduce the application's UI and features.
         <td align="center">Corrected Results</td>
     </tr>
     <tr>
-        <td align="center"><img src="https://github.com/user-attachments/assets/f54ef6c4-d7cb-448b-bfda-82e0a31f2689" alt="web_app_anno" width = 50% height = 50%></td>
-        <td align="center"><img src="https://github.com/user-attachments/assets/90af99b1-bf39-4678-af56-9455c82cfc40" alt="web_app_corr" width = 50% height = 50%></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/f54ef6c4-d7cb-448b-bfda-82e0a31f2689" alt="web_app_anno" width = 70% height = 70%></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/90af99b1-bf39-4678-af56-9455c82cfc40" alt="web_app_corr" width = 70% height = 70%></td>
     </tr> 
 </table>
 
