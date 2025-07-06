@@ -8,7 +8,7 @@ The web application is designed to operate in any browser environment with essen
 For the best experience, we recommend using the latest versions of browsers such as Chrome and Mozilla Firefox.
 
 ### Access Link
-Please use the following hyperlink to access the [web application](https://google.com).
+Please use the following hyperlink to access the [web application](http://47.80.13.29/).
 
 ### Usage Instructions
 The following section will briefly introduce the application's UI and features.
