@@ -37,7 +37,7 @@ The following section will briefly introduce the application's UI and features.
 The mobile application is built to run in Android environments. The application requires Android operating systems versioned Android 7.0 and above (SDK 24). The application was tested on Android 14 and 15 during development. For a smooth experience, a stable internet connection is recommended.
 
 ### Access Link
-Please use the following hyperlink to download the [APK file](https://google.com).
+Please use the following hyperlink to download the [APK file](https://drive.google.com/file/d/1dPqAWHHMbSyDizz6p_kygUCQkK3hhK7Z/view?usp=sharing) (Google Drive Link).
 
 APK files are installer files native to Android. To install our application, please follow these steps:
 1. Download the APK file via the aforementioned link.
